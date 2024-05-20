@@ -1,4 +1,4 @@
-### Hi there 👋
+### This code is an html code wich represent a page with a duck :)
 
 <!--
 **MonacoFelice/MonacoFelice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
